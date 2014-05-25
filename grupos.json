@@ -201,6 +201,8 @@
     "0025": {
         "codigo": "0025",
         "nombre": "EEB",
+        "nombreLargo": "Escanos en Blanco",
+        "tendencia": 0,
         "color": "CCCCC",
         "logo": ""
     },
@@ -297,18 +299,24 @@
     "-1": {
         "codigo": "-1",
         "nombre": "Blanco",
+        "nombreLargo": "Blanco",
+        "tendencia": 0,
         "color": "CCCCCC",
         "logo": ""
     },
     "-2": {
         "codigo": "-2",
         "nombre": "Nulos",
+        "nombreLargo": "Nulos",
+        "tendencia": 0,
         "color": "CCCCCC",
         "logo": ""
     },
     "-3": {
         "codigo": "-3",
         "nombre": "Otros",
+        "nombreLargo": "Otros",
+        "tendencia": 0,
         "color": "CCCCCC",
         "logo": ""
     }
