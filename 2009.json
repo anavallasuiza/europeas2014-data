@@ -12,42 +12,42 @@
                 "diputados": 23,
                 "id": "0003",
                 "nombre": "PP",
-                "porcentaje": 0,
+                "porcentaje": 42.12,
                 "votos": 6670232
             },
             {
                 "diputados": 21,
                 "id": "0012",
                 "nombre": "PSOE",
-                "porcentaje": 0,
+                "porcentaje": 38.78,
                 "votos": 6141784
             },
             {
                 "diputados": 2,
                 "id": "0055",
                 "nombre": "IU-EP",
-                "porcentaje": 0,
+                "porcentaje": 3.71,
                 "votos": 588248
             },
             {
                 "diputados": 1,
                 "id": "0004",
                 "nombre": "UPyD",
-                "porcentaje": 0,
+                "porcentaje": 2.85,
                 "votos": 451866
             },
             {
                 "diputados": 2,
                 "id": "b0001",
                 "nombre": "CE",
-                "porcentaje":0,
+                "porcentaje":5.10,
                 "votos": 808246
             },
             {
                 "diputados": 1,
                 "id": "b0002",
                 "nombre": "EdP",
-                "porcentaje": 0,
+                "porcentaje": 2.49,
                 "votos": 394938
             },
             {
