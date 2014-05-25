@@ -128,7 +128,7 @@
         "nombreLargo": "Piratas",
         "tendencia": 0.3,
         "color": "99CC66",
-        "logo": 
+        "logo": ""
     },
     "0047": {
         "codigo": "0047",
@@ -142,7 +142,7 @@
         "codigo": "0040",
         "nombre": "MSR",
         "color": "666666",
-        "logo": 
+        "logo": ""
     },
     "0067": {
         "codigo": "0067",
@@ -218,7 +218,7 @@
         "nombreLargo": "Podemos",
         "tendencia": 0.5,
         "color": "FF6600",
-        "logo": 
+        "logo": ""
     },
     "0016": {
         "codigo": "0016",
@@ -247,7 +247,7 @@
     "0044": {
         "codigo": "0044",
         "nombre": "España en Marcha",
-        "nombreLargo": "España en Marcha"
+        "nombreLargo": "España en Marcha",
         "tendencia": -1,
         "color": "666666",
         "logo": ""
