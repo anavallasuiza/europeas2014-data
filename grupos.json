@@ -19,6 +19,8 @@
     "0056": {
         "codigo": "0056",
         "nombre": "IPEX-PREX-CREX",
+        "nombreLargo": "Extremeños por Europa",
+        "tendencia": -0.2,
         "color": "FFCC99",
         "logo": ""
     },
@@ -41,6 +43,8 @@
     "0017": {
         "codigo": "0017",
         "nombre": "CpEU",
+        "nombreLargo": "Coalición por Europa",
+        "tendencia": -0.2,
         "color": "33FF00",
         "logo": ""
     },
@@ -177,7 +181,7 @@
     "0021": {
         "codigo": "0021",
         "nombre": "ExU",
-        "nombreLargo": "Extremeños por Europa",
+        "nombreLargo": "Extremadura Unida",
         "tendencia": -0.2,
         "color": "FFCC99",
         "logo": ""
@@ -201,7 +205,7 @@
     "0025": {
         "codigo": "0025",
         "nombre": "EEB",
-        "nombreLargo": "Escanos en Blanco",
+        "nombreLargo": "Escaños en Blanco",
         "tendencia": 0,
         "color": "CCCCC",
         "logo": ""
