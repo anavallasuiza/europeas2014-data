@@ -1,5 +1,12 @@
 {
-
+    "0202": {
+        "id": "0202",
+        "nombre": "AGE",
+        "nombreLarga": "Alternativa Galega de Esquerdas",
+        "tendencia": 0.5,
+        "color": "CC0000",
+        "logo": ""
+    },
     "0048": {
         "codigo": "0048",
         "nombre": "SAIn",
