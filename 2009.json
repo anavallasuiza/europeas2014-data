@@ -9,81 +9,46 @@
         "escrutado_porcentaje": 100,
         "grupos": [
             {
-                "diputados": 3,
-                "id": "0017",
-                "nombre": "CpEU",
-                "porcentaje": 5.10,
+                "diputados": 23,
+                "id": "0003",
+                "nombre": "PP",
+                "porcentaje": 42.12,
+                "votos": 6670232
+            },
+            {
+                "diputados": 21,
+                "id": "0012",
+                "nombre": "PSOE",
+                "porcentaje": 38.78,
+                "votos": 6141784
+            },
+            {
+                "diputados": 2,
+                "id": "0055",
+                "nombre": "IU-EP",
+                "porcentaje": 3.71,
+                "votos": 588248
+            },
+            {
+                "diputados": 1,
+                "id": "0004",
+                "nombre": "UPyD",
+                "porcentaje": 2.85,
+                "votos": 451866
+            },
+            {
+                "diputados": 2,
+                "id": "b0001",
+                "nombre": "CE",
+                "porcentaje":5.10,
                 "votos": 808246
             },
             {
-                "diputados": 0,
-                "id": "0048",
-                "nombre": "SAIn",
-                "porcentaje": 0.04,
-                "votos": 5877
-            },
-            {
-                "diputados": ,
-                "id": "0052",
-                "nombre": "Primavera Europea",
-                "porcentaje": ,
-                "votos":
-            },
-            {
-                "diputados": ,
-                "id": "0186",
-                "nombre": "Disc. e Enferm. R",
-                "porcentaje": ,
-                "votos": 
-            },
-            {
-                "diputados": ,
-                "id": "0047",
-                "nombre": "Impulso Social",
-                "porcentaje": ,
-                "votos": 
-            },
-            {
-                "diputados": ,
-                "id": "0053",
-                "nombre": "Vox",
-                "porcentaje": ,
-                "votos": 
-            },
-            {
-                "diputados": 0,
-                "id": "0022",
-                "nombre": "FE de las JONS",
-                "porcentaje": 0.06,
-                "votos": 10031
-            },
-            {
-                "diputados": 0,
-                "id": "0021",
-                "nombre": "ExU",
-                "porcentaje": 0.03,
-                "votos": 5007
-            },
-            {
-                "diputados": ,
-                "id": "0016",
-                "nombre": "P-Lib",
-                "porcentaje": ,
-                "votos": 
-            },
-            {
-                "diputados": 0,
-                "id": "0037",
-                "nombre": "PCPE",
-                "porcentaje": 0.10,
-                "votos": 15221
-            },
-            {
-                "diputados": ,
-                "id": "0058",
-                "nombre": "Ruptura Europea",
-                "porcentaje": ,
-                "votos": 
+                "diputados": 1,
+                "id": "b0002",
+                "nombre": "EdP",
+                "porcentaje": 2.49,
+                "votos": 394938
             },
             {
                 "diputados": ,
@@ -100,10 +65,11 @@
                 "votos": 99380
             }
         ],
-        "nombre": "Total Estatal",
+        "nombre": "Total Estatal (2009)",
         "tipo": "TO",
         "votantes_numero": 15835767,
         "votantes_porcentaje": 44.9
     },
     "file": "2009.json"
 }
+
