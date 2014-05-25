@@ -5,7 +5,7 @@
         "nombreLargo": "SaIn",
         "tendencia": 0.5,
         "color": "660066",
-        "logo": 
+        "logo": ""
     },
     "0012": {
         "codigo": "0012",
@@ -13,13 +13,13 @@
         "nombreLargo": "PSOE",
         "tendencia": 0.3,
         "color": "FF3333",
-        "logo": 
+        "logo": ""
     },
     "0056": {
         "codigo": "0056",
         "nombre": "IPEX-PREX-CREX",
         "color": "FFCC99",
-        "logo": 
+        "logo": ""
     },
     "0003": {
         "codigo": "0003",
@@ -27,7 +27,7 @@
         "nombreLargo": "Partido Popular",
         "tendencia": -0.5,
         "color": "3333FF",
-        "logo": 
+        "logo": ""
     },
     "0020": {
         "codigo": "0020",
@@ -35,19 +35,19 @@
         "nombreLargo": "Iniciativa Feminista",
         "tendencia": 0.8,
         "color": "9966FF",
-        "logo": 
+        "logo": ""
     },
     "0017": {
         "codigo": "0017",
         "nombre": "CpEU",
         "color": "33FF00",
-        "logo": 
+        "logo": ""
     },
     "0058": {
         "codigo": "0058",
         "nombre": "Europa Problema",
         "color": "990033",
-        "logo": 
+        "logo": ""
     },
     "0002": {
         "codigo": "0002",
@@ -55,7 +55,7 @@
         "nombreLargo": "Foro de Ciudadanos",
         "tendencia": -0.5,
         "color": "66CCFF",
-        "logo": 
+        "logo": ""
     },
     "0018": {
         "codigo": "0018",
@@ -63,7 +63,7 @@
         "nombreLargo": "Proxecto Europa",
         "tendencia": -0.2,
         "color": "FFCC99",
-        "logo": 
+        "logo": ""
     },
     "0004": {
         "codigo": "0004",
@@ -71,7 +71,7 @@
         "nombreLargo": "UPyD",
         "tendencia": -0.2,
         "color": "FF33CC",
-        "logo": 
+        "logo": ""
     },
     "0055": {
         "codigo": "0055",
@@ -79,7 +79,7 @@
         "nombreLargo": "IU",
         "tendencia": 0.7,
         "color": "CC0000",
-        "logo": 
+        "logo": ""
     },
     "0008": {
         "codigo": "0008",
@@ -87,7 +87,7 @@
         "nombreLargo": "PACMA",
         "tendencia": 0.2,
         "color": "003300",
-        "logo": 
+        "logo": ""
     },
     "0005": {
         "codigo": "0005",
@@ -95,14 +95,14 @@
         "nombreLargo": "Corriente Roja",
         "tendencia": 1,
         "color": "CC0033",
-        "logo": 
+        "logo": ""
     },
     "0043": {
         "codigo": "0043",
         "nombre": "ERC-EPDD",
         "tendencia": 0.5,
         "color": "CC6633",
-        "logo": 
+        "logo": ""
     },
     "0050": {
         "codigo": "0050",
@@ -110,7 +110,7 @@
         "nombreLargo": "Alternativa Republicana",
         "tendencia": 0.8,
         "color": "990033",
-        "logo": 
+        "logo": ""
     },
     "0011": {
         "codigo": "0011",
@@ -118,7 +118,7 @@
         "nombreLargo": "Ciudadanos",
         "tendencia": 0.2,
         "color": "FF9933",
-        "logo": 
+        "logo": ""
     },
     "0042": {
         "codigo": "0042",
@@ -126,7 +126,7 @@
         "nombreLargo": "Piratas",
         "tendencia": 0.3,
         "color": "99CC66",
-        "logo": 
+        "logo": ""
     },
     "0047": {
         "codigo": "0047",
@@ -134,19 +134,19 @@
         "nombreLargo": "Impulso Social",
         "tendencia": -1,
         "color": "333333",
-        "logo": 
+        "logo": ""
     },
     "0040": {
         "codigo": "0040",
         "nombre": "MSR",
         "color": "666666",
-        "logo": 
+        "logo": ""
     },
     "0067": {
         "codigo": "0067",
         "nombre": "Recortes 0",
         "color": "990033",
-        "logo": 
+        "logo": ""
     },
     "0007": {
         "codigo": "0007",
@@ -154,7 +154,7 @@
         "nombreLargo": "PrePAL",
         "tendencia": 0.2,
         "color": "FFCC99",
-        "logo": 
+        "logo": ""
     },
     "0052": {
         "codigo": "0052",
@@ -162,13 +162,13 @@
         "nombreLargo": "Primavera Europea",
         "tenencia": 0.5,
         "color": "33FF66",
-        "logo": 
+        "logo": ""
     },
     "0049": {
         "codigo": "0049",
         "nombre": "Bildu-BNG-OPD",
         "color": "339900",
-        "logo": 
+        "logo": ""
     },
     "0021": {
         "codigo": "0021",
@@ -176,7 +176,7 @@
         "nombreLargo": "Extremadura Unida",
         "tendencia": -0.2,
         "color": "FFCC99",
-        "logo": 
+        "logo": ""
     },
     "0038": {
         "codigo": "0038",
@@ -184,7 +184,7 @@
         "nombreLargo": "Partido Andalucista",
         "tendencia": 0.2,
         "color": "FFCC99",
-        "logo": 
+        "logo": ""
     },
     "0023": {
         "codigo": "0023",
@@ -192,13 +192,13 @@
         "nombreLargo": "Partido Humanista",
         "tendencia": 0.2,
         "color": "FF9900",
-        "logo": 
+        "logo": ""
     },
     "0025": {
         "codigo": "0025",
         "nombre": "EEB",
         "color": "CCCCC",
-        "logo": 
+        "logo": ""
     },
     "0053": {
         "codigo": "0053",
@@ -206,7 +206,7 @@
         "nombreLargo": "Vox",
         "tendencia": -0.7,
         "color": "FF6600",
-        "logo": 
+        "logo": ""
     },
     "0045": {
         "codigo": "0045",
@@ -214,7 +214,7 @@
         "nombreLargo": "Podemos",
         "tendencia": 0.5,
         "color": "FF6600",
-        "logo": 
+        "logo": ""
     },
     "0016": {
         "codigo": "0016",
@@ -222,7 +222,7 @@
         "nombreLargo": "PLib",
         "tendencia": -0.3,
         "color": "FFFF66",
-        "logo": 
+        "logo": ""
     },
     "0009": {
         "codigo": "0009",
@@ -230,7 +230,7 @@
         "nombreLargo": "Partido da Terra",
         "tendencia": 0.5,
         "color": "99CC99",
-        "logo": 
+        "logo": ""
     },
     "0022": {
         "codigo": "0022",
@@ -238,7 +238,7 @@
         "nombreLargo": "Falange Jons",
         "tendencia": -0.9,
         "color": "333333",
-        "logo": 
+        "logo": ""
     },
     "0044": {
         "codigo": "0044",
@@ -246,7 +246,7 @@
         "nombreLargo": "España en Marcha",
         "tendencia": -1,
         "color": "666666",
-        "logo": 
+        "logo": ""
     },
     "0037": {
         "codigo": "0037",
@@ -254,7 +254,7 @@
         "nombreLargo": "PCPE",
         "tendencia": 1,
         "color": "990033",
-        "logo": 
+        "logo": ""
     },
     "0039": {
         "codigo": "0039",
@@ -262,7 +262,7 @@
         "nombreLargo": "Democracia Nacional",
         "tendencia": -1,
         "color": "666666",
-        "logo": 
+        "logo": ""
     },
     "0028": {
         "codigo": "0028",
@@ -270,42 +270,42 @@
         "nombreLargo": "Partido X",
         "tendencia": 0.4,
         "color": "CCCC99",
-        "logo": 
+        "logo": ""
     },
     "0041": {
         "codigo": "0041",
         "nombre": "M RED",
         "color": "CCCC99",
-        "logo": 
+        "logo": ""
     },
     "0186": {
         "codigo": "0186",
         "nombre": "D y Enf R",
         "color": "CCCC99",
-        "logo": 
+        "logo": ""
     },
     "0014": {
         "codigo": "0014",
         "nombre": "CILUS",
         "color": "CCCC99",
-        "logo": 
+        "logo": ""
     },
     "-1": {
         "codigo": "-1",
         "nombre": "Blanco",
         "color": ,
-        "logo": 
+        "logo": ""
     },
     "-2": {
         "codigo": "-2",
         "nombre": "Nulos",
         "color": ,
-        "logo": 
+        "logo": ""
     },
     "-3": {
         "codigo": "-3",
         "nombre": "Otros",
         "color": ,
-        "logo": 
+        "logo": ""
     }
 }
