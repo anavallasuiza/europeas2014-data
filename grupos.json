@@ -333,5 +333,13 @@
         "tendencia": 0,
         "color": "#CCCCCC",
         "logo": ""
+    },
+    "-9": {
+        "codigo": "-9",
+        "nombre": "Abst.",
+        "nombreLargo": "Abstención",
+        "tendencia": 0,
+        "color": "#000000",
+        "logo": ""
     }
 }
